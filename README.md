@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Website built with react.js 🚀🔥
+
+## Figma UI Link
+https://www.figma.com/file/BlA3emBgPz31TCtgBroMnz/Capture-Landing-Page-Template-Community?node-id=47%3A2
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
