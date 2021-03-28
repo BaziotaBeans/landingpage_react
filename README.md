@@ -1,7 +1,10 @@
 # Website built with react.js 🚀🔥
 
 ## Figma UI Link
-https://www.figma.com/file/BlA3emBgPz31TCtgBroMnz/Capture-Landing-Page-Template-Community?node-id=47%3A2
+
+###### 🚀🔥 [See in Figma](https://www.figma.com/file/BlA3emBgPz31TCtgBroMnz/Capture-Landing-Page-Template-Community?node-id=47%3A2)
+
+###### 🚀🔥 [See in action](https://kind-leavitt-226b22.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
